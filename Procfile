@@ -1,0 +1,1 @@
+web gunicorn contract.wsgi:application --log-file -
